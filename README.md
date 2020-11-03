@@ -3,7 +3,7 @@
 
 The store has two version:
 1. Onsite
-2.Online
+2. Online
 
 To have admin access use following credentials:
 - username: anonymousAdmin@gmail.com
